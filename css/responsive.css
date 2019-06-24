@@ -1,0 +1,215 @@
+@media only screen and (max-width: 1440px){
+	.container-cs { max-width: 80%!important;}
+
+	.home .sec-1 .hldr .hero-text article h1 { font-size: 6em!important; margin-left: -3px!important;}
+	.wrapper { max-width: 92%!important;}
+
+	.home .section-image .left.text-part { padding-left: 4%!important;}
+	.home .section-image .right.text-part { padding-right: 5.8%!important;}
+	.home .section-image .text-part div .readmore { padding: 20px 50px!important; font-size: 20px!important;}
+
+	.sponsor-article .hldr .mid-part ul li .item article p { font-size: 18px!important; line-height: 29px!important;}
+	.sponsor-article .hldr .mid-part ul li .item article h4 { font-size: 30px!important; line-height: 36px!important}
+
+}
+
+
+
+@media only screen and (max-width: 1300px){
+	.container-cs { max-width: 85%!important;}
+	.home .sec-1 .hldr .hero-text article h1 { font-size: 5.5em!important;}
+	.home .blockquote .hldr p { font-size: 30px!important; line-height: 49px!important;}
+	.sponsor-article .hldr .mid-part ul li .item article h4, .inner .sec-quote.animated .hldr p { font-size: 30px!important;}
+	.inner .sec-quote.animated .hldr p { line-height: 48px!important;}
+	.sponsor-article .hldr .mid-part ul li .item article { padding-right: 30px!important;}
+	.home .section-card .hldr .article-section { padding-right: 40px!important;}
+	.home .blockquote .hldr { min-width: auto!important; max-width: 80%!important;}
+	.inner .section-article .hldr .left.article { padding-right: 40px!important;}
+	.inner .section-article .hldr .right.article { padding-left: 40px!important;}
+	.inner .event-s1 .hldr .item .main-list > li:first-child article h3, .inner .event-s1 .hldr .item .main-list > li:first-child article h5 { font-size: 25px!important;}
+	.inner .event-s1 .hldr .item { padding: 24px 35px!important;}
+	.inner .event-s1 .hldr .item .main-list > li:nth-child(2) > ul li a { font-size: 18px!important;}
+
+}
+
+
+@media only screen and (max-width: 1200px){
+	.home .sec-1 .hldr .hero-text article p, .home .section-card .hldr .article-section p, .home .section-image .text-part div p, .sponsor-article .hldr .mid-part ul li .item article p, .inner .section-article p, .inner .section-article .hldr .article .block-p, .home .sec-1 .hldr .hero-text aside .banner-slider p, .inner .green-p p { font-size: 18px!important;}
+
+	.home .section-card .hldr .article-section p, .home .section-image .text-part div p, .sponsor-article .hldr .mid-part ul li .item article p, .inner .section-article p, .inner .section-article .hldr .article .block-p, .inner .green-p p { line-height: 32px!important;}
+
+	.home .section-card .hldr .card-section ul li .card article h4 { font-size: 20px!important;}
+
+	.sponsor-article .hldr .mid-part ul li .item article { width: 55%!important; padding: 0px 20px!important;}
+	.sponsor-article .hldr .mid-part ul li .item aside  { max-width: 45%!important;}
+
+
+	.container-cs { max-width: 90%!important;}
+	.home .section-card .hldr .card-section {  padding-right: 0px!important;  width: 50%!important;}
+	.home .section-card .hldr .article-section { width: 50%!important;}
+
+	.home .section-image .text-part { padding: 60px 40px!important;}
+	.home .section-image .right.text-part{ padding-right: 40px!important;}
+	.home .section-image .left.text-part { padding-left: 40px!important;}
+
+	.inner .sec-quote .hldr, .inner .event-s2 .hldr article, .inner .green-p { max-width: 80%!important;}
+	.wrapper-2 { max-width: 90%!important;}
+	.inner .sec-speaker .hldr .body h5 { font-size: 20px!important; line-height: 34px!important;}
+	.inner .event-s1 .hldr .item .main-list > li:first-child article h5, .inner .event-s1 .hldr .item .main-list > li:first-child article h5 span { font-size: 20px!important;}
+}
+
+
+
+@media only screen and (max-width: 1100px){
+	.wrapper, .sponsor-article .hldr { max-width: 100%!important; padding: 0px 40px!important;}
+	.home .blockquote .hldr, .inner .sec-quote .hldr, .inner .event-s2 .hldr article { max-width: 90%!important;}
+	.home .sec-1 .hldr .hero-text article h1 { font-size: 5em!important;}
+	.inner .event-s1 .hldr .item .main-list > li:first-child article h5 span { font-size: 18px!important; padding-left: 5px!important;}
+	.inner .green-p { max-width: 90%!important;}
+}
+
+
+@media only screen and (max-width: 1024px){
+
+	.container-cs { max-width: 100%!important; padding: 0px 40px!important;}
+
+	.home .sec-1 .hldr .hero-text article { padding-right: 30px!important}
+
+	.home .sec-1 .hldr .hero-text article h1 { font-size: 4.5em!important;}
+	.home .sec-1 .hldr .hero-text aside .banner-slider h2 { font-size: 45px!important;}
+
+	.sponsor-article .hldr .mid-part ul li .item article h4, .inner .sec-quote.animated .hldr p { font-size: 25px!important;}
+
+	.inner .sec-quote.animated .hldr p { line-height: 40px!important;}
+}
+
+@media only screen and (max-width: 1023px){
+	
+
+	.home .sec-1 .hldr { min-height: auto!important; padding: 100px 0px!important;}
+	.home .sec-1 .hldr .hero-text article{ padding-right: 0px!important; width: 100%!important;}
+	.home .sec-1 .hldr .hero-text aside{ padding-top: 30px!important; margin: 0 auto!important;}
+	.home .sec-1 .hldr .hero-text aside .banner-slider { padding: 30px 20px!important;}
+	.home .sec-1 .hldr .hero-text .angle-hldr { margin-top: 40px!important;}
+	.home .section-card { padding: 50px 0px!important}
+	.home .section-card .hldr .article-section { width: 100%!important; padding-right: 0px!important; margin-bottom: 30px!important;}
+	.home .section-card .hldr .card-section { width: 100%!important;}
+	.home .section-card .hldr .card-section ul li .card article{ padding: 25px!important;}
+	.home .section-image .image { min-height: auto!important; max-width: 100%!important;}
+	.home .section-image .image img{ position: relative!important; height: auto!important;}
+	.home .section-image .text-part { padding: 50px 40px!important; width: 100%!important; min-height: auto!important;}
+	.home .section-image .text-part div h4 { margin-bottom: 30px!important;}
+	.home .blockquote{ padding: 100px 0px!important;}
+	.home .blockquote .hldr p { font-size: 25px!important; line-height: 44px!important;}
+	.sponsor-article{ padding: 50px 0px!important}
+
+	.sponsor-article .hldr .mid-part ul li { width: 100%!important; margin-bottom: 40px!important;}
+	.sponsor-article .hldr .btm-part { padding-top: 60px!important;}
+
+
+	.inner .sec-1 .hero-inner h2 { font-size: 3.5em!important;}
+
+
+	.inner .section-article .hldr .left.article { padding-right: 0px!important; width: 100%!important;}
+	.inner .section-article .hldr .right.article { padding-left: 0px!important; width: 100%!important;}
+	.inner .section-article .hldr .image { width: 100%!important; /*margin-top: 30px!important;*/}
+	.inner .section-article, .inner .event-s2 .hldr { padding: 50px 0px!important;}
+
+	.inner .fw-section { padding: 0px 0px!important;}
+	.wrapper-2 {max-width: 100%!important;}
+
+	.inner .event-s1 .hldr .item .main-list > li:first-child { float: none!important; padding-right: 0px!important;}
+	.inner .event-s1 .hldr .item { background-position: top!important;}
+
+	.home .sec-1 .hldr .hero-text article h4, .intro-header, .inner .sec-1 .hero-inner h4 { letter-spacing: 3px!important;}
+	.inner .green-p { padding: 40px 0px!important;} 
+	.inner .section-article .hldr .article .block-p { max-width: 100%!important;}
+
+
+	.top-menu { background: transparent!important; padding: 0px!important; left: 40px!important; width: auto!important; position: absolute;}
+	.top-menu.active { background: #020202!important; }
+	.burger { display: inline-block!important}
+	.top-menu .container-cs { padding: 0px!important;}
+	.top-menu #menu-nav-menu li { width: 100%!important; padding: 10px 0px!important}
+	#menu-nav-menu {     display: block!important; padding: 0px 15px!important; display: none!important; overflow: hidden;}
+	.top-menu.active #menu-nav-menu { height: auto!important;  display: block!important;}
+
+	.inner .sec-1 .hero-inner h4 { margin-bottom: 20px!important;}
+	.inner .sec-1 .angle-hldr { margin-top: 25px!important;}
+
+	.inner .sec-1 .hero-inner { padding: 95px 0px 60px!important;}
+	/*.pull-right.right.flexbox-container { display: none!important;}*/
+
+
+
+}
+
+@media only screen and (max-width: 999px){
+	body, #header { overflow-x: hidden!important;}
+}
+
+
+@media only screen and (max-width: 800px){
+	.container-cs, .wrapper, .sponsor-article .hldr { padding: 0px 25px!important;}
+	.sponsor-article .hldr .btm-part article h4 { font-size: 22px!important;}
+	.inner .sec-speaker .hldr .body .left-img { margin-right: 20px!important;}
+	.inner .sec-speaker .hldr .body { padding: 30px 20px!important;}
+	.inner .sec-speaker .hldr .body h5 { margin-bottom: 30px!important;}
+	.inner .event-s1 .hldr .item{ padding: 25px 20px!important;}
+	.top-menu { left: 25px!important;}
+}
+
+@media only screen and (max-width: 767px){
+	header[role='banner'] .ad-banner-masthead .right .sponsored_by {     display: block!important; margin-right: 0px!important; text-align: center;}
+	header[role='banner'] .ad-banner-masthead p  {line-height: 12px!important; }
+	header[role='banner'] .ad-banner-masthead .right p { display: block!important; margin-bottom: 10px;}
+	.pull-right.right.flexbox-container { padding: 12px 0px}
+	#advert-btn { top: 30px;}
+
+}
+
+
+@media only screen and (max-width: 600px){
+	.inner .sec-speaker .hldr .body .left-img  { float: none!important; margin: 0 auto 25px!important; display: block;}
+}
+
+
+@media only screen and (max-width: 550px){
+	.home .sec-1 .hldr .hero-text{ width: 100%!important;}
+	.home .sec-1 .hldr .hero-text aside { width: 100%!important; max-width: 100%!important;}
+	.home .sec-1 .hldr .hero-text article h1 { font-size: 4em!important;}
+	.home .sec-1 .hldr .hero-text aside .banner-slider h2 { font-size: 40px!important;}
+	.home .sec-1 .hldr .hero-text aside .banner-slider h3 { font-size: 20px!important;}
+	.home .section-card .hldr .card-section ul li:nth-child(odd)  { padding-right: 0px!important;}
+	.home .section-card .hldr .card-section ul li:nth-child(even) { padding-left: 0px!important;}
+	.home .section-card .hldr .card-section ul li { width: 100%!important; margin-bottom: 40px!important;}
+	.home .section-card .hldr .card-section ul li .card .readmore { padding: 15px!important;}
+	.home .section-card .hldr .card-section ul li:last-child { margin-bottom: 0px!important;}
+
+	.home .blockquote { padding: 60px 25px!important;}
+	.home .blockquote .hldr, .inner .sec-quote .hldr, .inner .event-s2 .hldr article { max-width: 100%!important;}
+	.inner .sec-quote .hldr { padding: 0px 25px!important;}
+	.home .blockquote .hldr p, .inner .sec-quote.animated .hldr p { font-size: 22px!important; line-height: 35px!important;}
+	.sponsor-article .hldr .mid-part ul li .item aside { max-width: 100%!important; margin-bottom: 20px}
+	.sponsor-article .hldr .mid-part ul li .item article { padding: 0px!important; width: 100%!important;}
+	.sponsor-article .hldr .btm-part article h4 { font-size: 20px!important;}
+	.sponsor-article .hldr .btm-part article h4 a { word-break: break-word;}
+	.inner .sec-1 .hero-inner h2 { font-size: 3em!important;}
+	.inner .sec-speaker .hldr .body h4 {margin-bottom: 5px!important;}
+	.inner .event-s1 .hldr .item .main-list > li:nth-child(2) > ul li a{ width: 100%!important;}
+	.inner .event-s1 .hldr .item .main-list > li:nth-child(2) > ul li { width: 100%!important; text-align: center;}
+	.inner .event-s1 .hldr .item .main-list > li:nth-child(2) > ul li:first-child { padding-right: 0px!important; margin-bottom: 15px!important;}
+	.inner .event-s2 .hldr, .inner .event-s1 .hldr { max-width: 100%!important; padding: 50px 25px!important;}
+	.inner .green-p{ max-width: 100%!important; padding: 30px 25px!important;}
+	.top-menu { margin-right: 25px!important;}
+}
+
+
+/*@media only screen and (max-width: 495px){
+	header[role='banner'] .ad-banner-masthead .right .sponsored_by { display: none!important;}
+	.pull-right.right.flexbox-container { top: 21px!important;}
+}*/
+
+@media only screen and (max-width: 370px){
+	header[role='banner'] .ad-banner-masthead .right img.investjapan-logo { width: 125px!important;}
+}
